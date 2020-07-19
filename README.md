@@ -1,5 +1,5 @@
 <h1>Welcome!</h1>
-<h5>Here has some personal and didactic projects.</h5>
+<h4>Here has some personal and didactic projects.</h4>
 <h2>Focus and Interests</h2>
 
 ![NodeJS](https://img.shields.io/badge/-Node-80bd01?style=for-the-badge&logo=node.js&logoColor=white)
@@ -13,7 +13,7 @@
 - 🤔 I am interested in new technologies (IOT and API's), operating systems (Debian and ArchLinux) and UX / UI.
 <h2>Contact me</h2>
 <b>Caio Marques - Social:</b>
-
+<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/caiomarqs/)](https://www.linkedin.com/in/caiomarqs/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/duascormaneira)](https://twitter.com/duascormaneira)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:caiomarques1412@gmail.com)](mailto:caiomarques1412@gmail.com)
