@@ -3,8 +3,8 @@
 <h2>Focus and Interests</h2>
 
 ![NodeJS](https://img.shields.io/badge/-Node-80bd01?style=for-the-badge&logo=node.js&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793d1?style=for-the-badge&logo=Arch%20Linux&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-a81d33?style=for-the-badge&logo=Debian&logoColor=white)
+#![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793d1?style=for-the-badge&logo=Arch%20Linux&logoColor=white)
+#![Debian](https://img.shields.io/badge/-Debian-a81d33?style=for-the-badge&logo=Debian&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979d?style=for-the-badge&logo=Arduino&logoColor=white)
